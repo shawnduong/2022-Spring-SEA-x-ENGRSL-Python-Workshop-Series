@@ -18,4 +18,4 @@ The following topics have been removed due to time constraints:
 - While loops
 
 The following activities have been removed due to time constraints:
-- Number sorting
+- Logic puzzles
