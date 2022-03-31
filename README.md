@@ -19,3 +19,6 @@ The following topics have been removed due to time constraints:
 
 The following activities have been removed due to time constraints:
 - Logic puzzles
+
+Other changes:
+- Functions are covered on day 2 instead of day 1.

@@ -42,10 +42,6 @@ for year in range(friendAge):
 2. As a group, **write and run your first real set of Python loops that print out all the even numbers from 0 to 10, but not including 10.** You're basically solving the same problem in 2 different ways.
    - For "for x in y" loops, you may find the following line of code useful: `numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]`
 
-### Activity: Functions
-
-As a group, **create a real Python function that just says "Good morning!" Then, call it.**
-
 ### Python Reference Sheet
 
 ```python
@@ -81,13 +77,6 @@ for person in people:
 
 for i in range(10):
 	print("Hi!")
-
-# Functions look like this.
-def greet():
-	print("Hello!")
-
-# That's just the definition. It doesn't actually run the function. In order to do that, you need to call it.
-greet()
 ```
 
 ## Tello Reference Sheet
