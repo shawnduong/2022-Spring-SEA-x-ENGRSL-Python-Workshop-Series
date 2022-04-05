@@ -12,13 +12,8 @@ These workshops aim to teach the fundamentals of computer programming to partici
 
 ### Revisions
 
-Compared to the [2021 Fall Series](https://github.com/shawnduong/2021-Fall-SEA-x-ENGRSL-Python-Workshop-Series), the 2022 Spring Series condenses down event materials to better fit the 90-minute timeslot per event. The 2022 Spring Series also tries to interlace Tello activities between other programming activities in order to make the most use out of the drones and give the drones time to recharge.
+Compared to the [2021 Fall Series](https://github.com/shawnduong/2021-Fall-SEA-x-ENGRSL-Python-Workshop-Series), the 2022 Spring Series is significantly more adaptive to live happenings and as such, is almost entirely activity-based instead of theory-focused.
 
-The following topics have been removed due to time constraints:
-- While loops
+### Short URL
 
-The following activities have been removed due to time constraints:
-- Logic puzzles
-
-Other changes:
-- Functions are covered on day 2 instead of day 1.
+The following short URL can be used to access this repository: [shawnd.xyz/u/py22s](https://shawnd.xyz/u/py22s)
